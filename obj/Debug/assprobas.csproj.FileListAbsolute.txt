@@ -1,0 +1,7 @@
+C:\Users\Elias A\source\repos\assprobas\bin\Debug\assprobas.exe.config
+C:\Users\Elias A\source\repos\assprobas\bin\Debug\assprobas.exe
+C:\Users\Elias A\source\repos\assprobas\bin\Debug\assprobas.pdb
+C:\Users\Elias A\source\repos\assprobas\obj\Debug\assprobas.csprojAssemblyReference.cache
+C:\Users\Elias A\source\repos\assprobas\obj\Debug\assprobas.csproj.CoreCompileInputs.cache
+C:\Users\Elias A\source\repos\assprobas\obj\Debug\assprobas.exe
+C:\Users\Elias A\source\repos\assprobas\obj\Debug\assprobas.pdb
